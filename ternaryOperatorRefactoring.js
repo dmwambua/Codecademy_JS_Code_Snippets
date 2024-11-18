@@ -1,4 +1,4 @@
-//Refactor the following if else statements to use ternaty operators
+//Refactor the following if else statements to use ternaty operators.
 
 /*let isLocked = false;
 

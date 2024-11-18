@@ -10,7 +10,7 @@ else{
   console.log('We can eat later!');
 }
 
-//&& operator
+//&& operator.
 let mood = 'sleepy';
 let tirednessLevel = 6;
 if (mood =`sleepy` && tirednessLevel >8) {

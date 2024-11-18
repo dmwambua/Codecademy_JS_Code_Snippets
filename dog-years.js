@@ -1,7 +1,7 @@
 //Doy years calculation
 //declare my age
 const myAge =8.5;
-//variable earlyYears value will chamge
+//variable earlyYears value will chamge.
 let earlyYears =2;
 earlyYears = earlyYears*10.5;
 laterYears =myAge-2;

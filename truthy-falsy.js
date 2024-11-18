@@ -6,7 +6,7 @@ if (numberOfApples){
    console.log('No apples left!');
 }
 
-//Truthy and Falsy Assignment
+//Truthy and Falsy Assignment..
 let username = '';
 let defaultName;
 
